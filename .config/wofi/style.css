@@ -1,0 +1,25 @@
+* {
+  border: none;
+}
+
+window {
+  font-size: 14px;
+  font-family: FiraCode Nerd Font Mono;
+}
+
+#entry:selected {
+  background-color: #fbf1c7;
+  color: #282828;
+}
+
+#entry {
+  padding: 0.25em;
+}
+
+image {
+  margin: 0 1em;
+}
+
+#input {
+  padding: 0.25em;
+}
